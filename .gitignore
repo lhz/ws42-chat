@@ -15,4 +15,8 @@
 /log/*.log
 /tmp
 
+# Ignore local development configuration
+.rvmrc
+.pryrc
+
 /public/assets/**
